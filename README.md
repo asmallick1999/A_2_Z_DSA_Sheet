@@ -9,19 +9,19 @@ DSA from A to Z:  https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-
 -----------------------------------------------------------------
 
 #1 ) User Input / Output ->  https://practice.geeksforgeeks.org/problems/java-inputoutput0118/1
----------------------------
 
-class Solution{
+
+
     static void printIntString(String S,int N){
         // code here
         System.out.println("The input string :"+S);
         System.out.println("The input integer :"+N);
     }
-}
+
 
 #2 ) Data Types -> https://practice.geeksforgeeks.org/problems/java-basic-data-types0041/0
 
-class Solution {
+
 
     int javaIntType(Scanner sc) {
         // code here
@@ -40,4 +40,4 @@ class Solution {
         float decimalNumber = sc.nextFloat();
         return decimalNumber;
     }
-};
+

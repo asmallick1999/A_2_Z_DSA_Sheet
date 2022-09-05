@@ -8,7 +8,7 @@ DSA from A to Z:  https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-
 # Step 1.1 : Things to Know in C++/Java/Python or any language
 -----------------------------------------------------------------
 
-1 ) User Input / Output ->  https://practice.geeksforgeeks.org/problems/java-inputoutput0118/1
+#1 ) User Input / Output ->  https://practice.geeksforgeeks.org/problems/java-inputoutput0118/1
 ---------------------------
 
 class Solution{
@@ -19,5 +19,25 @@ class Solution{
     }
 }
 
-2 ) Data Types -> https://www.javatpoint.com/java-data-types
-                  https://www.geeksforgeeks.org/java-gq/data-types-2-gq/
+#2 ) Data Types -> https://practice.geeksforgeeks.org/problems/java-basic-data-types0041/0
+
+class Solution {
+
+    int javaIntType(Scanner sc) {
+        // code here
+        int intNumber = sc.nextInt();
+        return intNumber;
+    }
+    
+    String javaStringType(Scanner sc) {
+        // code here
+        String str = sc.next();
+         return str;
+    }
+    
+    float javaFloatType(Scanner sc) {
+        // code here
+        float decimalNumber = sc.nextFloat();
+        return decimalNumber;
+    }
+};

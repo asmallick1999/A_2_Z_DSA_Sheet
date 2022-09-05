@@ -42,7 +42,7 @@ DSA from A to Z:  https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-
     }
 
 
-#2) If Else statements -> https://practice.geeksforgeeks.org/problems/java-if-else-decision-making0924/0
+#3) If Else statements -> https://practice.geeksforgeeks.org/problems/java-if-else-decision-making0924/0
 
 
     static String compareNM(int n,int m){
@@ -57,3 +57,8 @@ DSA from A to Z:  https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-
             return "lesser";
         }
     }
+    
+    
+#4) Switch Statement -> https://practice.geeksforgeeks.org/problems/java-switch-case-statement3529/1
+
+

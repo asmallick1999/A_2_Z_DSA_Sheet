@@ -41,3 +41,19 @@ DSA from A to Z:  https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-
         return decimalNumber;
     }
 
+
+#2) If Else statements -> https://practice.geeksforgeeks.org/problems/java-if-else-decision-making0924/0
+
+
+    static String compareNM(int n,int m){
+        // code here
+        if(n==m){
+            return "equal";
+        }
+        else if(n>m){
+            return "greater";
+        }
+        else{
+            return "lesser";
+        }
+    }

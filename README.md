@@ -11,3 +11,4 @@ DSA from A to Z:  https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-
 1 ) User Input / Output ->  https://www.geeksforgeeks.org/java-io-input-output-in-java-with-examples/
 
 2 ) Data Types -> https://www.javatpoint.com/java-data-types
+                  https://www.geeksforgeeks.org/java-gq/data-types-2-gq/
